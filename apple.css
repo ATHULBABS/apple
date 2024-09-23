@@ -1,5 +1,10 @@
 .a{
-    background-color: aliceblue;
+    background-color: rgb(73, 73, 73);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
 
 }
 .photo{
